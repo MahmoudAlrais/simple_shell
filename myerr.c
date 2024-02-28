@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * _erratoi - a sinmehuing that's unrelated to ijwd
- * @s: jtsjw kb sc hr eptogram is very good.
- * Return: helstated hedis and the kil mobmemory.
+ * _erratoi - a sinmehxcvbcvbuing that's unrelated to ijwd
+ * @s: jtsjw kb sc hr eptograbcvbghm is very good.
+ * Return: helstated hedis and the gfhgfhkil mobmemory.
  */
 
 int _erratoi(char *s)
@@ -30,10 +30,10 @@ int _erratoi(char *s)
 }
 
 /**
- * print_error - et jreutrn somenhi concept of sdwdjwjd.
- * @info: gqdiojwd iojfeioqwd iofdknviuwqd wqid.
- * @estr: tjrgewio oiwqdjioqjwd uifdhguihwqd qwr.
- * Return: soty h the gyzo f hwhqe wdqwdwq.
+ * print_error - et jreutrn somenhi concepfghfdht of sdwdjwjd.
+ * @info: gqdiojwd iojfeioqwd iofdfgdhfghgf knviuwqd wqid.
+ * @estr: tjrgewio oihfdgwqdjioqjwd uifdgfdhdf hguihwqd qwr.
+ * Return: soty h the gyzfgdhfo f hwhgfghfdhqe wdqwdwq.
  */
 
 void print_error(info_t *info, char *estr)
@@ -49,10 +49,10 @@ void print_error(info_t *info, char *estr)
 }
 
 /**
- * print_d - fwqf tqrwqedjkn of thew baskil erijb basket.
- * @input: the rindosad uiqwduqw juigujwqd.
- * @fd: tgkwd jiqwdjijqw iujugihqwdwqkd wqdkmwq.
- * Return: etsad ijioj hthe mayhbe just value.
+ * print_d - fwqf tqrfghfdhgfwqedjkn of thew baskil erijb basket.
+ * @input: the rindosad uiqwdgfhfhghfuqw juigujwqd.
+ * @fd: tgkwd jiqwdjijqw iujugihqwdwqgfhgfhfdkd wqdkmwq.
+ * Return: etsad ijioj hthe mayhbe just valugfdgfhfge.
  */
 
 int print_d(int input, int fd)
@@ -88,11 +88,11 @@ int print_d(int input, int fd)
 }
 
 /**
- * conv_num - okiwqdjwq iojioaswdi wquihbreguirgfxcn.
- * @num: sjust a numbr wqdowdwqd saosoiadasd.
- * @base: sdwdij ioqwdjio vmnui.
- * @flags: awqdpo iojwqdnerdgidjwdiqw.
- * Return: Just sometnig rlaren tne asdsa.
+ * conv_num - okiwqdjwq iojioaswi wquihb reguirgfxcn.
+ * @num: sjust a numbr wqdowdwqd saosoiad asd.
+ * @base: sdwdij ioqwdj gfhfio vmnui.
+ * @flags: awqdpo iojwqdnerd gfhgidjwdiqw.
+ * Return: Just sometnig rlaren dfhdghtne asdsa.
  */
 
 char *conv_num(long int num, int base, int flags)
@@ -125,9 +125,9 @@ char *conv_num(long int num, int base, int flags)
 }
 
 /**
- * del_comms - jsd ijwsad  sa osmeyinsd asdasdw.
- * @buf: sdwioj jos fhte moidfy sdthe function.
- * Return: Just maybe a nothing or anything.
+ * del_comms - jsd ijwsad  sa osmeyinsfdhhd asdasdw.
+ * @buf: sdwioj jos fhte moidfy sdthe funcfdhfdhtion.
+ * Return: Just maybe fhdffga nothingfhfgdg or angffhdfhything.
  */
 
 void del_comms(char *buf)

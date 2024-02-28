@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * get_environ - iojdwq oijiorjgijwqd iodwqiofrgfe qwdiojwdq.
- * @info: threwiofj woiqdjowqidj iojdwiowqdf qwdjqwd.
- * Return: opiqwd iwqdiowq dijrihgojrfgr.
+ * get_environ - iojdwq sgsdfg oijiorjgijwqd iodwqiofrgfe qwdiojwdq.
+ * @info: threwiofj woiqdjowqiddfsgf sfgsfj iojdwiowqdf qwdjqwd.
+ * Return: opiqwd iwqdiowq dijrihg ojrsdgffdsfg gfgr.
  */
 
 char **get_environ(info_t *info)
@@ -18,10 +18,10 @@ char **get_environ(info_t *info)
 }
 
 /**
- * _unsetenv - iowjd oijwdqio uhgruhrguih uidqw.
- * @info: fhtyjuyti thdf jtyjsf dsdsfvdfbvre regrtjefwef
+ * _unsetenv - iowjd oijwdqio uhgrfgg uhrguih uidqw.
+ * @info: fhtyjuyti thdf jtyjsf dsdsfvgfsg dfbvre regrtjefwef
  * @var: the string env var property
- * Return: retuern the value statment of uhd qwduiqwd.
+ * Return: retuern the value statment of uh fgfgsfgfd qwduiqwd.
  */
 
 int _unsetenv(info_t *info, char *var)
@@ -51,11 +51,11 @@ int _unsetenv(info_t *info, char *var)
 }
 
 /**
- * _setenv - wqdioj iodj sjcknuisac dowjfiojhfuihqwf.
- * @info: qwdokiji iojdwio iascjnh iqowdjqwd.
- * @var: wqqd asdf cvx vcnb hjytjtyj.
- * @value: ytjuuytsaf oipiop safcsa fgef.
- * Return: Just somewiu di qwidjqwio d.
+ * _setenv - wqdioj iodj sjcknuisac dowj fiojhfuihqwf.
+ * @info: qwdokiji iojdwio iascjnh iqofgsdf wdjqwd.
+ * @var: wqqd asdf cvx vcnb hjy tjtgfsd yj.
+ * @value: ytjuuytsaf oipiop saf csa fgef.
+ * Return: Just somewiu di qwidj qwio d.
  */
 
 int _setenv(info_t *info, char *var, char *value)
@@ -94,10 +94,10 @@ int _setenv(info_t *info, char *var, char *value)
 }
 
 /**
- * hseko - wdiojd iodwqoi siajdasduihgqfqwm.
- * @info: erg wqdhuwq sadbnuh wudhqwiuhuegh.
- * @av: oiqdw ojwoqidds fiojfioj wqdwqnfujinqfw.
- * Return: THe sd sad iwdiofweqjef wqdhjuiwqndhwq.
+ * hseko - wdiojd iodwqoi siajdsdfgasdusf ihgqfqwm.
+ * @info: erg wqdhuwq sadbnuhsf wudhqw iuhuegh.
+ * @av: oiqdw ojwoqidds fiojffioj wqdwqn fujinqfw.
+ * Return: THe sd sad iwdifsfofweqjef wqdhju iwqndhwq.
  */
 
 int hseko(info_t *info, char **av)
@@ -138,9 +138,9 @@ int hseko(info_t *info, char **av)
 }
 
 /**
- * find_builtin - fwdoij iosadnjnc bnwdbwqg.
- * @info: qwdoij iosad uhsacuihuiwqdh.
- * Return: the asd asd ma min s one.
+ * find_builtin - fwdoij iosadnjnc bnwd bwqg.
+ * @info: qwdoij iosad uhsacuih uiwqsfgfddh.
+ * Return: the asd asd ma mfsfsin s one.
 */
 
 int find_builtin(info_t *info)

@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * _eputs - oiqwdhj ioqwdjioqw iwqdhj uhwegt.
- * @str: ioxzjc9spowf ioqdwiowqd hsuaidhdfwq.
- * Return: Just mnothisad jinwqdwdq 15.
+ * _eputs - oiqwcxvbbdfdhj ioqwdjioqw iwqdhj uhwegt.
+ * @str: ioxzjc9spowf ifgsgdfsoqdwiowqd hsuaidhdfwq.
+ * Return: Just mnothisad jinwgdsgsdfgqdwdq 15.
  */
 
 void _eputs(char *str)
@@ -21,9 +21,9 @@ void _eputs(char *str)
 }
 
 /**
- * _epochwq - kiowqdhj iudhxxzfui opiwqiwdquifmsdf.
- * @c: jwf j acharcter of uhwqduqwdhjtrj.
- * Return: jhSt od jd amy of sometinhg value.
+ * _epochwq - kiowqdhj iudhxxzfui opiwsdfgger qiwdquifmsdf.
+ * @c: jwf j acharcter of uhwqd sdfgsfguqwdhjtrj.
+ * Return: jhSt od jd amy odfgsdfggsdff sometinhg gfdsgsfdgvalue.
  */
 
 int _epochwq(char c)
@@ -43,10 +43,10 @@ int _epochwq(char c)
 }
 
 /**
- * _putfd -  iojuwqfd ujhqwdiu ghrrejfiowqd uihd.
- * @c: ioqwodjio oijdwqioxcsd.
- * @fd: jsut sd kwdqodj kqifdwq.
- * Return: Just sometging lvalue of sauhdawsd.
+ * _putfd -  iojuwqfd ujhqwdiu ghrrejfsdfgfdsg fggsdgfiowqd uihd.
+ * @c: ioqwodjio oijfgsdfgdwqioxcsd.
+ * @fd: jsut sd kwdqodj kqgsgdsfifdwq.
+ * Return: Just sometging lvaluesdfgdfg of sauhdawsd.
  */
 
 int _putfd(char c, int fd)
@@ -66,10 +66,10 @@ int _putfd(char c, int fd)
 }
 
 /**
- * _dmwoq - a siomehing wsdhtela sddwqdfgm
- * @str: iowjdio the value opsf jhasdjwdjwd
- * @fd: a n exit seotamte of the program.
- * Return: a extra input and ontpws dwqid.
+ * _dmwoq - a dfgsfgsdfsiomehing wsdhtela sddwqdfgm
+ * @str: iowjdio the vadgfsgdflue opsf jhasdjwdjwd
+ * @fd: a n exit seotamte of tsdfgfdsghe program.
+ * Return: a extra input and ontpws dwdsfgfdsgqid.
  */
 
 int _dmwoq(char *str, int fd)
@@ -87,9 +87,9 @@ int _dmwoq(char *str, int fd)
 }
 
 /**
- * _putchar - an eiqjwdw ifgwufqwi widqwiudwqd.
- * @c: yrj wqoe jfqnjfwqjdnwqrthf ioqwdjqwd.
- * Return: Just noting but the result of this func.
+ * _putchar - an eiqjwdw ifgffdsggwufqwi widqwiudwqd.
+ * @c: yrj wqoe jfqfsgsdfgfnjfwqjdnwqrthf ioqwdjqwd.
+ * Return: Just noting but the redfsgfsult of this func.
  */
 
 int _putchar(char c)

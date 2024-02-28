@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * intosketiv - oiqdwiowdn jiojdwio wqoidq.
- * @info: iojwdiojwqd iodwq qwdw.
- * Return: it's just return an int.
+ * intosketiv - oiqdwiowdn jibxcxvojdwio wqoidq.
+ * @info: iojwdiojwqxcvbvbcxvd iodcvwq qwdw.
+ * Return: it's jusvbcvbt retbxvcurn an ivcbxcbnt.
  */
 
 int intosketiv(info_t *info)
@@ -13,10 +13,10 @@ int intosketiv(info_t *info)
 }
 
 /**
- * is_delim - ioqw ijqwdwqid hhghuqwd jqwdiwqd.
- * @c: wqidd oigfgqjdwiowqd iojqwdioqd ijqwd.
- * @delim: obiojq iodfgqdjioqwd oiqjwdqwoidj q.
- * Return: it's just int jqjiqwdqwd.
+ * is_delim - ioqw ijqwdwqid hhghuqwd jqwbcb diwqd.
+ * @c: wqidd oigfgqjdwiowqd iojqwdxcvbvb ioqd ijqwd.
+ * @delim: obiojq iodfgqdjioqwd oiqjwdqvbxvwoidj xcbq.
+ * Return: it's just int jqjiqwdqvxcbcvwd.
  */
 
 int is_delim(char c, char *delim)
@@ -29,9 +29,9 @@ int is_delim(char c, char *delim)
 }
 
 /**
- * _isalpha - ppw ionxcxn uijhduqhzx uiqwud.
- * @c: oikx iojiqqw nmnndwidqwi ppqdw.
- * Return: retuen sometning rleated to the program.
+ * _isalpha - ppw ionxcxn uijhduqvbhfghgrhzx uiqwud.
+ * @c: oikx iojiqqw nmnndwidqwi ppzcxvcvqdw.
+ * Return: retuen sometning rzxcvleated to tvzxvhe program.
  */
 
 int _isalpha(int c)
@@ -43,9 +43,9 @@ int _isalpha(int c)
 }
 
 /**
- * _acsoi - ioiiwq iijd jjwqwd iijqiwdi qwidiqwd.
- * @s: ppowd oook oqwd jiqwdjwq dkkq.
- * Return: retuen sometning thelat's related to the program.
+ * _acsoi - ioiiwq iijd jjwqwd izxvczvijqiwdi qwidiqwd.
+ * @s: ppowd oook oqwd jizcvczqwdjwq dkkq.
+ * Return: retuen sometning thelat's related to xcvzvcvthe program.
  */
 
 int _acsoi(char *s)
@@ -77,10 +77,10 @@ int _acsoi(char *s)
 }
 
 /**
- * _strcpy - oppkkd dxzcmn jnefnwqdo wqdtjsceg.
- * @dest: retpq tehdd destionasdwd.
- * @src: the oqoj cof the foelq oeotsjdwd.
- * Return: twdm my pointer of the code.
+ * _strcpy - oppkkd dxzcmn jnefnwqdo wqdcxzvcvcztjsceg.
+ * @dest: retpq tehdd destionasdxcvzzcvcwd.
+ * @src: the oqoj cof cxzvcvczxvthe foelq oeotsjdwd.
+ * Return: twdm xczvczmy pointer of the code.
  */
 
 char *_strcpy(char *dest, char *src)

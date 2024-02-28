@@ -1,10 +1,10 @@
 #include "myproshell.h"
 
 /**
- * **strtow - siodw jioqwdj iodw uihsnaduiucwqucwquwq uidwq.
- * @str: lqwd iuh uwqd dhyuqw duqwdh quwdhuiwqdh.
- * @d: rfgiosajd iusad uywqd iojsad uhdwqu.
- * Return: reiuf duhd wuidh wqudh knsxac asduihwqudh wquid.
+ * **strtow - siodw jioqwdj iodw uihquwq uidwq.
+ * @str: lqwd iuh uwqd dhyuqw dfghgfhudh quw.
+ * @d: rfgiosajd iusaxfghgfd gfhjuyd isad uhdqu.
+ * Return: reiuf duhd wdh wqudh knsxac asduihwqkghjgudh wquid.
  */
 
 char **strtow(char *str, char *d)
@@ -50,10 +50,10 @@ char **strtow(char *str, char *d)
 }
 
 /**
- * **strtow2 - Wuid huwqd uiasdh diuhwduhqwd iuwqdhuiwqd.
- * @str: lijowqidj idjqwo dqiuhduqhwdwqduihqw.
- * @d: lkjasd asiod iuwjdiu qwduhwqdas dsa.
- * Return: ioasjd ioasdijwd qfhwqufh nnddswu uhqdw.
+ * **strtow2 - Wuid huwqd ghjhgjghjuiasdh dijhgjuhguhwduhqwd iuwqdhuiwqd.
+ * @str: lijowqidj idhgfhgfjqwo dqiuhqw.
+ * @d: lkjasd asiod iuwjdifghgfdhfg gfhgfhghu qwduhwqdahgfghfgs dsa.
+ * Return: ioasjd ioasdijwd qfhwqufh nnddswu hgfhfghfgh uhqdw.
  */
 
 char **strtow2(char *str, char d)
@@ -102,9 +102,9 @@ char **strtow2(char *str, char d)
 
 
 /**
- * replic_alocio - ruiowqid suiadhsa djhbd wduihqwud iuqwduiqwd.
- * @info: iouhjwdi quwhf uuqwd uqwdh qwudhuwqd.
- * Return: iajsdi saidjiod oJust ntdwd.
+ * replic_alocio - ruigdhgfhfgowqid suiadhsa djhbd wduigfhfghfhqwud iuqwduiqwd.
+ * @info: iouhjwdi quwhf uuqwd ugdhgfhfghqwdh qwugfhfghdhuwqd.
+ * Return: iajsdi saidjiod oJufghfgytrust ngfhfgtdwd.
  */
 
 int replic_alocio(info_t *info)
@@ -142,9 +142,9 @@ int replic_alocio(info_t *info)
 }
 
 /**
- * reco_vrog - rsad asiojs djwqd iojsadj uhwcuhbwquwqfg.
- * @info: tregref kiojsad iwdu hqwufhwqfwqf.
- * Return: ioasjhdi jasiodHust ksdiwqdqwd.
+ * reco_vrog - rsad asiojs djwqd iojsadj uhwcuhbwquwqfhfgdhfgg.
+ * @info: tregref kiojsad iwdu hqfghfghgfwufhwqfwqf.
+ * Return: ioasjhdi jasiodHust ksdiwqdqwdfhety5d.
  */
 
 int reco_vrog(info_t *info)
@@ -190,10 +190,10 @@ int reco_vrog(info_t *info)
 }
 
 /**
- * reco_strok - ruiashd uduiqdwuq yugscbnd uyhqwduyqwd.
- * @old: aiojsadis inwnfwuf uhsauhd nmniunwqufnwq.
- * @new: rgewfioj iojwdqjq wicjwqiofqwgf.
- * Return: kloasd ijd iwojdf iojgoij iuwqdhjui wqwd.
+ * reco_strok - ruiashd uduifdhfghfqdwuq yugscbnd uyhqwdudfhghgfsdhyqwd.
+ * @old: aiojsadis inwnfwuf ugfdhgfdjfghsauhd nmniunwqufnfdhteywq.
+ * @new: rgewfioj iojwdqjfghhgfhfq gfhfgh  wicjwqiofqwgf.
+ * Return: kloasd ijd iwojdf iojgoij iuwqd gfhfghfghfgh hgfhhjui wqwd.
  */
 
 int reco_strok(char **old, char *new)

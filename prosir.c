@@ -1,10 +1,10 @@
 #include "myproshell.h"
 
 /**
- * is_cmd - dio dwqioasjd wquih duihqwuidhwq iuwqduiqwd iuhqw.
- * @info: qowpkdj owqd iojfqwf iojfwqiofqfij iwqdqwd.
- * @path: lkiojwdqi iojwf uihfwuqwf iuhqduiqwdqw.
- * Return: Just notning but saijudasd dwqiojdwq.
+ * is_cmd - dio dsadfgfdwqioasjd wquih duihqwuidhwq iuwqduiqwd iuhqw.
+ * @info: qowpkdj owqd idfgdfgfdojfqwf iojfwqiofqfij iwqdqwd.
+ * @path: lkiojwdqi iojwf uihfwugf b bvb bqwf iuhqduiqwdqw.
+ * Return: Just notning but saijudasd dwqisdfgsdfgdsfgojdwq.
  */
 
 int is_cmd(info_t *info, char *path)
@@ -24,11 +24,11 @@ int is_cmd(info_t *info, char *path)
 }
 
 /**
- * dup_chars - diowqdi qwdioqw duihqwiuyhd qwuidqw.
- * @pathstr: tkoljdwq qwdhjwquihwqui qwdiodwq.
- * @start: soijdwqio jwdqiojwqiod jwqiodjq.
- * @stop: kiolqwfjgio uijhndwqui iuhqdwuiqw.
- * Return: lkhgjni ofjfwiu hdwqui udhwqd.
+ * dup_chars - diowqdi qwdifdsgdfsgsfoqw duihqwiuyhd qwuidqw.
+ * @pathstr: tkoljdgsdfgfdgwq qwdhjwqfdsgfduihwqui qwdiodwq.
+ * @start: soijdwqio jwdqiojwqiod jwqiodjgfdsggfsdggfdgdq.
+ * @stop: kifgdhgfh hfgh olqwfjgio uijhndwqui iuhqdwuiqw.
+ * Return: lkhgjni ofjfwihfdhg ghgfhfgjryu hdwqui udhwqd.
  */
 
 char *dup_chars(char *pathstr, int start, int stop)
@@ -45,11 +45,11 @@ char *dup_chars(char *pathstr, int start, int stop)
 }
 
 /**
- * find_path - fiioqwfj oidw wqdjiu hwquidhqw uhwdfuiqwfqw.
- * @info: poiqdwj jwoifjqiwuofg iuhwfduiwqdqwdu.
- * @pathstr: olkikjgijwd uihwqduihqw uiwqhfuiqwf.
- * @cmd: iouwhjdq uihdwqui wiuhduiq wdqwiuhg.
- * Return: iokqdwj ioqwdio qwiodjqwio jdqwiodj.
+ * find_path - fiioqwfj oidw wqdjiu hwquidfhffgfgdhqw uhwdfuiqwfqw.
+ * @info: poiqdwj jwoifjqiwuofg iuhwfduiwqdqfdhhfhwdu.
+ * @pathstr: olkikjgijwd ufgdhghrtihwqduihqw uiwqhfuiqwf.
+ * @cmd: iouwhjdq uihdwqui wiuhduiq whtryeughdqwiuhg.
+ * Return: iokqdwj ioqwdio qwiodjqwio jdqwiodfghy5yrtj.
  */
 
 char *find_path(info_t *info, char *pathstr, char *cmd)
@@ -96,10 +96,10 @@ char *find_path(info_t *info, char *pathstr, char *cmd)
 
 
 /**
- * _strcat - ciowjd qwd qwiojfdoqiwfjiuqw hfwuiqhfuwqifdwq.
- * @dest: tuikuyjh thrtryujdvcxv fgwefe jtrweafasfsaf.
- * @src: tjr5rythrf wef sevfxc nytjgsdgf.
- * Return: akisjdh iasd asjhd oasdjiogwgjeoj ffoiqo.
+ * _strcat - ciowjgfhdfd qwd qwiojfdoqiwfjiuqw hfwuiqhfuwqifdwq.
+ * @dest: tuikuyjh thrtgfhgfdhryujdvcxv fgwefe jtrweafasfsaf.
+ * @src: tjr5rythrf wef sevfxhtryyc nytjgsdgf.
+ * Return: akisjdh iasd asjhd oasdrehygfrhfghdjiogwgjeoj ffoiqo.
  */
 
 char *_strcat(char *dest, char *src)

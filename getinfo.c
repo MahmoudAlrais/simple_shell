@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * cls_minfo - iwqdpioj s xmncxmcniuoqfdjq hpo.
- * @info: kiowdji suichuisdfh iojwdwq.
- * Return: Just nothing.
+ * cls_minfo - iwqoj s xmnfdjq hfhfghpo.
+ * @info: kiowdji sgkjjfh dfghiojwdwq.
+ * Return: Just tfdhfghfghhing.
  */
 
 void cls_minfo(info_t *info)
@@ -16,10 +16,10 @@ void cls_minfo(info_t *info)
 }
 
 /**
- * scm_minfo - jhgjj iojqwdioj nasdn ijdwq.
- * @info: oiiwjqd divudsf ijwqdiojwqdij.
- * @av: iokojwdi uidshvuif uiwhdwqd.
- * Return: just nothing oijasdiwdwd.
+ * scm_minfo - jhgjj iojfdghdoj nasdn ijdwq.
+ * @info: oiiwjqd divf ijwqdqgfhfdij.
+ * @av: iokojwdi uidsif ughjuridwqd.
+ * Return: just nong oijawgfdhgfhdwd.
  */
 
 void scm_minfo(info_t *info, char **av)
@@ -50,10 +50,10 @@ void scm_minfo(info_t *info, char **av)
 }
 
 /**
- * free_info - wqdoij isad jkncwicjiuwqd uihgqfgwd.
- * @info: h kjdwqijwqiod saiujhuc widojqwid.
- * @all: poqwdk uisad ioujdwoij iojqwidowqd.
- * Return: Just nothing sdji vuwdwqad.
+ * free_info - wqdoij isad jkd usdfgfihwd.
+ * @info: h kjijwqiod saifghdfc widid.
+ * @all: poqwdk usad iooij iojfghfdhqqd.
+ * Return: Just nog sdji vufhghgfwdwqad.
  */
 
 void free_info(info_t *info, int all)
@@ -82,9 +82,9 @@ void free_info(info_t *info, int all)
 }
 
 /**
- * find_cmd - wqd poiisiadjas kjnduhqwud sacyuhbw.
- * @info: e dopdw oqwdi iu guihqwwqfwq.
- * Return: Just sidji ndjnwqd wqdwqd.
+ * find_cmd - wqd pos kjnud sacfdfsgdfgyuhbw.
+ * @info: e dopdw oqwdi isdfgfgu guiqfwq.
+ * Return: Just sidgfsdgfji ndjd wqdwqd.
  */
 
 void find_cmd(info_t *info)
@@ -125,9 +125,9 @@ void find_cmd(info_t *info)
 }
 
 /**
- * fork_cmd - oiw dqiojdwio jwdq uiasmndbcnmbioudw.
- * @info: wqdpioj uiashduisdwqoi iuowdiodwq.
- * Return: Just noowd iqwdj wqdjjadmnjsadas.
+ * fork_cmd - oiw dqiojio jwdsdfgfhq uiasoudw.
+ * @info: wqdoj uiqoi iuodfsgw.
+ * Return: Just nodsdfgdsgdf iqwdj wjsadas.
  */
 
 void fork_cmd(info_t *info)

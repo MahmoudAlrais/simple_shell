@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * bfree - fioj iodwqji wqdiojwqio diowqjd.
- * @ptr: qwdpo kjsiadj sjwioqdjioqwd iodqiwjdqw.
- * Return: DWuihd iojdopjqw ojdsd ujuiwqcjiwqdj.
+ * bfree - fioj iodwqsdfgsdfgdfji wqdiojwqio diowqjd.
+ * @ptr: qwdpo kjsiadj sjwioqdjdfsgdfgfdgioqwd iodqiwjdqw.
+ * Return: DWuihd iojdopjqw ojdsd ujuiwqcfgsdfgfgsdjiwqdj.
  */
 
 int bfree(void **ptr)
@@ -19,9 +19,9 @@ int bfree(void **ptr)
 }
 
 /**
- * _strlen - riu9asdiu wiojdioqwd sadij iowqjdwq.
- * @s: oiwjdi wqod iojfdiqwuifhwq dhfqwf.
- * Return: iowjdioj iwqodjugh uiwqhfduiqhf.
+ * _strlen - riu9agsfgsdfgsdiu wiojdioqwd sadij iowqjdwq.
+ * @s: oiwjdi wqod iojfdiqgfdfgdsfgwuifhwq dhfqwf.
+ * Return: iowjdioj iwqodjugh uiwqhfdgfdgfghhfgfduiqhf.
  */
 
 int _strlen(char *s)
@@ -44,10 +44,10 @@ int _strlen(char *s)
 }
 
 /**
- * _strcmp - piojdio ioqwdjiowq duihjwquid uijhqdwuiqhwd uihwfudiqwf.
- * @s1: iojdwqoi jwqio uihdwuihwqdijg iqwdjiqw.
- * @s2: ihjwqi ioqjwdiod uihqwguwqgui qwiudiuqwd.
- * Return: ijdijqw iojdwioj huqwhgqwdui iodwiojiod qwiogfuwqf uhiqwfd.
+ * _strcmp - pigdfgdojdio ioqwdjiowq duihjwquid uijhqdwuiqhwd uihwfudiqwf.
+ * @s1: iojdwqoi jwqhfghjfgio uihdwuihwqdijg iqwdjiqw.
+ * @s2: ihjwqi ioqjwdiod uihfghfghgfdhhqwguwqgui qwiudiuqwd.
+ * Return: ijdijqw iojdwioj huqwhgqwdufhfghfgh ghsdfgffgi iodwiojiod qwiogfuwqf uhiqwfd.
  */
 
 int _strcmp(char *s1, char *s2)

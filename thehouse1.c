@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * _myhistory - oiqwdjiowqd diowjiowqd syaysudwqdlkmqw.
- * @info: kiolwjdiow iojqwdiusad uhqdwui mkfmqwd uiqhwd.
- *  Return: Just Nothing mayber.
+ * _myhistory - oghfhfdfdiowjiowqd syaysudwqdlkmqw.
+ * @info: kiolwjdiow iojfghgfhfghgfqwdiusad uhqdwui mkfmqwd uiqhwd.
+ *  Return: Just Notgfdhhing mayxbgtshgfber.
  */
 
 int _myhistory(info_t *info)
@@ -15,10 +15,10 @@ int _myhistory(info_t *info)
 }
 
 /**
- * unset_alias - piowjdioqj diwqjdwqidjiqwodi qwdwq.
- * @info: giojqwiodjiwqdj oiwqdjioqw.
- * @str: giojwqiodjwqd iowjdioqwd uiduwiqd.
- * Return: Jst osomj lralaew ewdw.
+ * unset_alias - piowjdioqj diwqjdwqidjgfdhfghfgdhiqwodi qwdwq.
+ * @info: giojqwiodjiwqdj oiwqdjgfdfhfgfhgfhfioqw.
+ * @str: giojwqiodjwqd ihgfgdhfgowjdiogfghgfhfqwd uiduwiqd.
+ * Return: Jst osomj lralaew ewgfhgfhfghfgdw.
  */
 
 int unset_alias(info_t *info, char *str)
@@ -48,10 +48,10 @@ int unset_alias(info_t *info, char *str)
 }
 
 /**
- * set_alias - activw diwjq ii sthe sero qq.
- * @info: dwiw iiqwe ploob ppwqk.
- * @str: tyqwkeqiej ijwqeiqweqw ioqweiq.
- * Return: jsut somewud qw nd rpogram.
+ * set_alias - activw diwjq iifdhfgdh sthe sero qq.
+ * @info: dwiw iiqwe ploob ppwqgfhgfdhrk.
+ * @str: tyqwkeqiej ijwqeiqweqw ioqweihfghdgfhq.
+ * Return: jsut somegfhfdwud gfdhfg gfhghgfw nd rpogram.
  */
 
 int set_alias(info_t *info, char *str)
@@ -80,9 +80,9 @@ int set_alias(info_t *info, char *str)
 }
 
 /**
- * print_alias - jdj qj oiqwdoi oijwd mnqwd.
- * @node: fjjqwi idiwqd ijiwqd jnqwdnqwd.
- * Return: Just nothing related to the program.
+ * print_alias - jdj qj oiqwvbvbcfhfghvdoi oijwd mnqwd.
+ * @node: fjjqwi idiwqdfhfghh ihgfhfgdhjiwqd jnqfsgdftertewdnqwd.
+ * Return: Just nfgdhgfothing relagfhgdted to the progrhggfhygtram.
  */
 
 int print_alias(list_t *node)
@@ -107,9 +107,9 @@ int print_alias(list_t *node)
 }
 
 /**
- * _myalias - ro wiwi nnd the fvarlble of d qwdwqdqw.
- * @info: giojwqidj ijdwjd mgmdf ddwquidhwqud uiwqd.
- *  Return: Just nothing related to the program maybe.
+ * _myalias - ro wiwi nnd thegfhfgghhfghf fvarlble of d qwdwqdqw.
+ * @info: giojwqidj ijdwjd mfdghgfgmdf ddwqgfdhffuidhwqud uiwqd.
+ *  Return: Just nothifdhgfdhng related to the profghfghgfhfggram maybe.
  */
 
 int _myalias(info_t *info)

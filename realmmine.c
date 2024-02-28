@@ -1,11 +1,11 @@
 #include "myproshell.h"
 
 /**
- * _memset - fioasjd wdqhwiuod iojsa dnaswujicwquifwqf.
- * @s: lkwjdn iojsa dioswdjioqwiogjio woiqjdiowqdj.
- * @b: kiohjdwqiu sia djiowd ioiuqwdiuowqfd.
- * @n: ikojdwqo d ijd mscnnmzxmnbcuiwqh uwdq.
- * Return: iojiodwq oijidwo xmacn iwdhjuiwqdwqfd.
+ * _memset - fioabcxvbcvsjd wdqhwiuod iojsa dnaswujicwquifwqf.
+ * @s: lkwjdn iojsa diosvccvbcvbcvwdjioqwiogjio woiqjdiowqdj.
+ * @b: kiohjdwqiu sia djiowd ioiuqcbcvxbwdiuowqfd.
+ * @n: ikojdwqo d ijd mscnnmzxmnbcuiwqh vcxcvxvuwdq.
+ * Return: iojiodwq oijidwo xmacn iwdhjuiwqdwqfffsdgsdfgd.
  */
 
 char *_memset(char *s, char b, unsigned int n)
@@ -22,9 +22,9 @@ char *_memset(char *s, char b, unsigned int n)
 }
 
 /**
- * ffree - fropiqwdj iosjad smandwq diowdjiosadklmdio.
- * @pp: ioqwdhji qwidjfwqdfiojwqifoj wqiodjiowqd.
- * Return: Thhe oijswdiojwdi sakldiwdiqwd.
+ * ffree - fropiqwhgfdhfgdj iosjad smandwq diowdjiosadklmdio.
+ * @pp: ioqwdhji qwidjfwqgfhgfhfdhgdfdfiojwqifoj wqiodjiowqd.
+ * Return: Thhe oijswdiojwdi sakldiwdgfdhgfhettyetyiqwd.
  */
 
 void ffree(char **pp)
@@ -46,11 +46,11 @@ void ffree(char **pp)
 }
 
 /**
- * _realloc - rioj d smdnasuic wqiudwq dhiowjdi qmeiriym.
- * @ptr: ioqwdjioq odsoa kdoiawsjdiuwquighwgfqw dfqwd.
- * @old_size: egewkiojw diowjdioqwd iuahsduiwqdqw.
- * @new_size: poiadwio sad wuiqfdhuwqf giuhuiwqfqwf.
- * Return: iojio thge pinter ,sadiuwdwqad.
+ * _realloc - rioj d smdgfdhdfhfnasuic wqiudwq dhiowjdi qmeiriym.
+ * @ptr: ioqwdjioq odsoa kdoiawsnvbnhgffhjdiuwquighwgfqw dfqwd.
+ * @old_size: egewkiojw diowjdioqwd iuahsgfhgfhrhduiwqdqw.
+ * @new_size: poiadwio sad wuiqfdhuwqf giuhuiwqfhgfdhgfddfhdfhqwf.
+ * Return: iojio thge pinter ,sadiuwdhgfdhfhwqad.
  */
 
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
@@ -91,9 +91,9 @@ void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
 
 
 /**
- * _mycutr - ioqwdj qtguih samndiuwduiq iuhasduiwqdq.
- * @info: opiqwdjio sadui hjudq iuhjwquihgw uhqwduqwd.
- * Return: ioqwdj said jwuid uihqdwuiiuhdwuiqw.
+ * _mycutr - ioqwdj qtgudfsgsdfih samndiuwduiq iuhasduiwqdq.
+ * @info: opiqwdjio sadui hjudqsdgsdgdfsgsdf iuhjwquihgw uhqwduqwd.
+ * Return: ioqwdj said jwuid uihqdwuiiuhdwuigsdfdfgsdfgdfqw.
  */
 
 int _mycutr(info_t *info)
@@ -120,9 +120,9 @@ int _mycutr(info_t *info)
 }
 
 /**
- * _myxcdq - ioqwdj qwdowqfweuighuqd mxzcvnji wegiowegq.
- * @info: pioswjad sad iojfioqwfu dwsjkdbcn wquifhqwf.
- * Return: Juiouashd sd uhwdqw ujs adwqudhqwiuofwq.
+ * _myxcdq - iosdfgsdfgqwdj qwdowqfweuighuqd mxzcvnji wegiowegq.
+ * @info: pioswjad sad dfgfdsgfdgiojfioqwfu dwsjkdbcn wquifhqwf.
+ * Return: Juiouashd sd uhwdqw ujfdgdfsgdfsgs adwqudhqwiuofwq.
  */
 
 int _myxcdq(info_t *info)

@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * _myenv - dk acculkmtesd the osd dwjnqwnd jknqwdjn.
- * @info: qiowdjio wqjd ojqiofjwq dwq djwqiodj qwjnhgrfg.
- * Return: just nod p he posdmdwd.
+ * _myenv - dk acculsdfgkmtesd the osd dwjnqwnd jknqwdjn.
+ * @info: qiowdjio wqjd fddgojqiofjwq dwq djwqiodj qwjnhgrfg.
+ * Return: just nod p he posdfhghgfdmdwd.
  */
 
 int _myenv(info_t *info)
@@ -14,10 +14,10 @@ int _myenv(info_t *info)
 }
 
 /**
- * _getenv - getrijsadi jiit smd nxzczu jwqdnjwqd.
- * @info: mhjffwf wqdiuqwd sjncffnwejgt wqudjhnqwd.
- * @name: the uiasdiasw dnwqdqw ndwkjl.
- * Return: The exit pro smmq nweiof hep ointer.
+ * _getenv - getrijsadi jiit smd nxgfdfghfzczu jwqdnjwqd.
+ * @info: mhjffwf wqdiuqwd sjnfgdhcffnwejgt wqhdffghudjhnqwd.
+ * @name: the uiasdiasw dnwqdqw ndgfdhwkjl.
+ * Return: The exit pro smmq nweiof hedfghffgp ointer.
  */
 
 char *_getenv(info_t *info, const char *name)
@@ -37,9 +37,9 @@ char *_getenv(info_t *info, const char *name)
 }
 
 /**
- * _lerpktenv - piowqdjio jddkmnf jndqwnd ewjndfiuqwdiu.
- * @info: iowqdji idjshfdwqjn uhdwqd nbrneuwdu iujsadiuwqd.
- * Return: Just maybe nothing a lot of odj wqd.
+ * _lerpktenv - piowqdjio jddkmnf jndqwnd ewjfdhdfhfndfiuqwdiu.
+ * @info: iowqdji idjshfdwqjn uhdwqd ndfhhfbrneuwdu iujsahdfhgfhdiuwqd.
+ * Return: Just maybe nothing a lot of odjfdfhhfgh ghfgdhhh wqd.
  */
 
 int _lerpktenv(info_t *info)
@@ -56,9 +56,9 @@ int _lerpktenv(info_t *info)
 }
 
 /**
- * _myunsetenv - Rqaweifjeiowqfj okisjadixzuichwqd ujhn.
- * @info: SWDijd jwqsa ddvjifjwwd uqwdER iojwqidwuquf.
- * Return: Just maybe nothing audjwdqwd.
+ * _myunsetenv - Rqaweifjegfd hfhiowqfj okisjadixzuichwqd ujhn.
+ * @info: SWDijd jwqsa ddvjifjfhdh wwd uqwdER iojwqidwuquf.
+ * Return: Just maybe nothing audjwfdhfgdhf fghdfdqwd.
  */
 
 int _myunsetenv(info_t *info)
@@ -77,9 +77,9 @@ int _myunsetenv(info_t *info)
 }
 
 /**
- * poke_my_env - diowjdio iojwdiowq dxjccuhwuwhqd.
- * @info: ioqwfdhj uisuidh ntigjn wq stryctyre oqwoedqwdughr.
- * Return: Just nothing but maybe just a zero.
+ * poke_my_env - diowjdio iojwsdfgfddiowq dxjccuhw sfggsdg uwhqd.
+ * @info: ioqwfdhj uisuidh ntigjn wqsdfgfsg stryctyre oqwoefsgf dqwdughr.
+ * Return: Just nothing but maybe just a zesdgdfgfro.
  */
 
 int poke_my_env(info_t *info)

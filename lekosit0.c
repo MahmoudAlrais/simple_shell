@@ -1,11 +1,11 @@
 #include "myproshell.h"
 
 /**
- * add_node - wqad Wd uidjh iojdij ndjwnqdw.
- * @head: wqd iojiowqd nmnxzcuh qwduiwhqdf.
- * @str: wqdwqoi jsdcnd jdiuqwdjug qiowdjioqwd.
- * @num: wqdiop jj nduqwdui hrtopiqwdm.
- * Return: qwd iosjad j uijnwqwdqiqj.
+ * add_node - wqad Wd uidxcbvbcjh iojdij ndjwnqdw.
+ * @head: wqd iojiowbvcxbqd nmncbxcxvbxzcuh qwduiwhqdf.
+ * @str: wqdwqoi jsdcnd jdiuqwdjug qiocvbcvxbvbwdjioqwd.
+ * @num: wqdiop jj nduqwdui hcvbxcbrtopiqwdm.
+ * Return: qwd iosjad j uijnwqwdqiqvxbgergfdgj.
  */
 
 list_t *add_node(list_t **head, const char *str, int num)
@@ -35,11 +35,11 @@ list_t *add_node(list_t **head, const char *str, int num)
 }
 
 /**
- * add_node_end - S iojdwioqdj sad mncwqdiuowquifq.
- * @head: qwd salkdj ascjwq ucquwifwiqujfd.
- * @str: wqd piojqd iojqwd nsncuwqdqwd.
- * @num: qwdqw olkijq dicvnio vuqnhuifwqiogjq
- * Return: Just sd idjwqio iuhjnrijwefioweqf.
+ * add_node_end - S iojdwioqdj sad mncwqdiu owvbxbcvbquifq.
+ * @head: qwd salkdj ascjwq ucquwi fwiqujfd.
+ * @str: wqd piojqd iojqwd nsncuwq gfdsgdqwd.
+ * @num: qwdqw olkijq dicvnio vuqnhui fwqiogjq
+ * Return: Just sd idjwqio iuhjnrij wefioweqf.
  */
 
 list_t *add_node_end(list_t **head, const char *str, int num)
@@ -77,9 +77,9 @@ list_t *add_node_end(list_t **head, const char *str, int num)
 }
 
 /**
- * preak_lict_str - pwqdwq uihuidhwquid iuqwndhui uhwquidfhwqgt.
- * @h: ioqdw oijjunsa mnsadmniuowdhqfqwtg.
- * Return: wqdio jiqowd nskacnwquiwqfg.
+ * preak_lict_str - pwqfsdg dwq uihuidhwquid iuqwndhui uhwquidfhwqgt.
+ * @h: ioqdw oijjunsa mnsadms fdgsdfgni uowdhqfqwtg.
+ * Return: wqdio jiqowd nskacn wquiwqsfgsdfgs fg.
  */
 
 size_t preak_lict_str(const list_t *h)
@@ -98,10 +98,10 @@ size_t preak_lict_str(const list_t *h)
 }
 
 /**
- * del_my_node - dqwdqw iuhwdui sancuiqwiuhfq.
- * @head: qwdwq iojx cmnxcwqadioqgtjtrhj.
- * @index: ioqwf iojsad mnhWUhuhxcjknaduiw dwd.
- * Return: Just not in sadjuduwqudhwqgg.
+ * del_my_node - dqwdqw iuhwduifsgdfg sancuiqwiuhfq.
+ * @head: qwdwq iojx cmnxcwqa dioqgtjtrhj.
+ * @index: ioqwf iojsad mnhWUh ugfsdg hxcjknaduiw dwd.
+ * Return: Just not in sadjuduwsdfgf  gsdfqudhwqgg.
  */
 
 int del_my_node(list_t **head, unsigned int index)
@@ -139,9 +139,9 @@ int del_my_node(list_t **head, unsigned int index)
 }
 
 /**
- * free_list - wqdio jIOWJoid jwd ijdsjfjsdnuwqd.
- * @head_ptr: qwdoij iosda nsacuihwquif hwqiuhgq.
- * Return: YTuihuid uhd uihdwui hdmnuiwhfqwf.
+ * free_list - wqdio jIOWJoid jwd ijdsjfjssfgs dnuwqd.
+ * @head_ptr: qwdoij iosda nsacuihwquif hwqiuhgfds gq.
+ * Return: YTuihuid uhd uihdwui hdmnui whfqwf.
  */
 
 void free_list(list_t **head_ptr)

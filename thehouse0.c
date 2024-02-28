@@ -1,10 +1,10 @@
 #include "myproshell.h"
 
 /**
- * _mycmhelp - acces pro ny omsdw iy ppqwe jdnqwnd.
- * @info: disccs moire theins related to the aaxisos.
- * constant the protesdijqdj jdwqndbsxcvf.
- * Return: something important maybe just zero.
+ * _mycmhelp - acces pro ny omsdw iy ppqwe jdgfdgfhgfhnqwnd.
+ * @info: disccs moire theins relatefhghfghfgd to the aaxisos.
+ * constant the protesdijqdj jdfghfgwqndbsxcvf.
+ * Return: something impogfhfdhfrtant maybe just zedfhfdro.
  */
 
 int _mycmhelp(info_t *info)
@@ -23,10 +23,10 @@ int _mycmhelp(info_t *info)
 }
 
 /**
- * look_chain - oiqwdhjhiu oiwxxkiojjnhqdw.
- * @info: qpiojg89 qwefiowq jfdowqd.
- * @buf: power igij oweiiof jewiodf.
- * @p: wddroiqwiodjiowqdjiowq oiwqdjioqwd.
+ * look_chain - oiqwdhjhiu oiwxxkgfhfghfgiogfhfgjjnhqdw.
+ * @info: qpiojg89 qwefiowqgfhffd jfdgfdhfgowqd.
+ * @buf: power igij gfhfghfowehfgdhfgiiof jewiodf.
+ * @p: wddroiqhgfhfgwiodfdhgfdjiowqdjiowq oiwqdjioqwd.
  * Return: something in the code that's correct.
  */
 
@@ -59,13 +59,13 @@ int look_chain(info_t *info, char *buf, size_t *p)
 }
 
 /**
- * chan_mychain - koqnwdfioqwnf oidwjiojwqd oiqdjioqwdq.
- * @info: poskajciosd iojdwioq djkvhuidsf.
- * @buf: poiqwdjiowq oiiwjsdioj sxfuijwef.
- * @p: ioeqdwjioqw lkiosajdiojdiu wqudh qwud.
- * @i: ploqwidj gfmbiuowqd wqiud hiojhegief.
- * @len: jdwjqnh qwdqw iwdjoiq.
- * Return: Just nothing maybe.
+ * chan_mychain - koqnwdfioqwnf oidwjiojgfhfdfwqd oiqdjioqwdq.
+ * @info: poskajciosd iojdwioq djkvhgfhdfhuidsf.
+ * @buf: poiqwdjiowq oiiwjsdioj sxfuijwdfghgfef.
+ * @p: ioeqdwjioqw lkiosajdiojdiu wqudh qwgfdhghud.
+ * @i: ploqwidj gfmbiuowqd wqiud gfhfdfhghiojhegief.
+ * @len: jdwjqnh qwdqw iwdjoigfdhgfq.
+ * Return: Just ndfhdfhfothing maybe.
  */
 
 void chan_mychain(info_t *info, char *buf, size_t *p, size_t i, size_t len)
@@ -93,9 +93,9 @@ void chan_mychain(info_t *info, char *buf, size_t *p, size_t i, size_t len)
 }
 
 /**
- * _strdup - qiowdj wqd iwqod wqdiwq djwqdioq.
- * @str: wioejuiwqedfwq ojqo jwqdjioqw.
- * Return: pdwqdwqointer to thqwdwqe dug.
+ * _strdup - qiowdj wqd iwqod gfdhdfhfghwqdiwq djwqdioq.
+ * @str: wioejuiwqedfgfdhfghfgwq ojqo jwqdjioqw.
+ * Return: pdfghdghgfwqdwqointer to thqwdwqghfe dug.
  */
 
 char *_strdup(const char *str)
@@ -118,9 +118,9 @@ char *_strdup(const char *str)
 }
 
 /**
- * _puts - poqwdj iojdiqwd ijwdqioqhsa ccnwqid.
- * @str: goiijwqdj iowqdjiosa duhduqw.
- * Return: Just Notihgn maybe.
+ * _puts - poqwdj iojdiqwd ijwdqioqhsa ccnwdfghfghfqid.
+ * @str: goiijwqdj iowqdjiosa duhdgfdhgfdhfuqw.
+ * Return: Just Notihgn maybefgdhf.
  */
 
 void _puts(char *str)

@@ -1,11 +1,11 @@
 #include "myproshell.h"
 
 /**
- * input_buf - bqdwio jsaidj dnuijwnduwqiggfwe.
- * @info: oiqwdio iojsd hcuqwudqwd.
- * @buf: awqd iojsa djid iuwqdhjqd.
- * @len: wqdio saidj iowqdjiojwqhg.
- * Return: Just osd jdiwqdiwqdh.
+ * input_buf - bqdwio jsdj dnuijwndfhgfwe.
+ * @info: oiqwdio iojsfdhhfdd hcdqwd.
+ * @buf: awqd iojsa djid iuwhfdhqd.
+ * @len: wqdio saidj fhdfhiowqdhg.
+ * Return: Just osd jdiwqdfghfdh.
  */
 
 ssize_t input_buf(info_t *info, char **buf, size_t *len)
@@ -44,9 +44,9 @@ ssize_t input_buf(info_t *info, char **buf, size_t *len)
 }
 
 /**
- * get_danm - iojwdqioj ioqdwjioqwd ijqwdoihreh.
- * @info: ijdw iojqdio oiwjdiotgh iojwef.
- * Return: wqd iojwdiowq ioqdjioqwd.
+ * get_danm - iojwdqioj fdghdhioqoqwd ijqwdoihreh.
+ * @info: ijdw iojqdio oiwtgdfghh iojwef.
+ * Return: wqd iojowq ioqdwdfgdhfg.
  */
 
 ssize_t get_danm(info_t *info)
@@ -90,11 +90,11 @@ ssize_t get_danm(info_t *info)
 }
 
 /**
- * read_buf - oijkwdq iojwqdijq ijdiqwd.
- * @info: gqopjwqd iojwd uhwduiwqd.
- * @buf: wqioj iojdwqiowqd ioqdwjiwqd.
- * @i: wqdop opqkwdopkqwd opkqwd.
- * Return: Just nor idwquidwq uihwqdwqd.
+ * read_buf - oijfdhfdkwdq iqdijq ijdiqwd.
+ * @info: gqopjwqd iodfgdh uhwd.
+ * @buf: wqioj iojwqd ioqwdfhqd.
+ * @i: wqdop opqkkqwd opkqwdgfdf.
+ * Return: Just nor idwdwq uihwqfdhhdwqd.
  */
 
 ssize_t read_buf(info_t *info, char *buf, size_t *i)
@@ -111,11 +111,11 @@ ssize_t read_buf(info_t *info, char *buf, size_t *i)
 }
 
 /**
- * _getline - doiqwjd oijdwq uihwduh smndiduwjqid.
- * @info: qwdpo iojiwqodj uihduwqd iojqfwfw.
- * @ptr: qwd pioqdwj iojigui hwquidh wdhwqiufhqg.
- * @length: oiqdw iojduqw uihd qwkdq iuhqwduihdwq.
- * Return: Just odw iojwdio oiwqdjioqwd.
+ * _getline - doiqwjd oiq uidfgdhuh smndjqid.
+ * @info: qwdpo iojidj uihd iodfghfw.
+ * @ptr: qwd pioqdwj ioi hwquidh wfdhfgddhhqg.
+ * @length: oiqdw ioqw uihd qwkdq iuhqhddfhfhwq.
+ * Return: Just odw iojo oiwfdhfdqdjioqwd.
  */
 
 int _getline(info_t *info, char **ptr, size_t *length)
@@ -159,9 +159,9 @@ int _getline(info_t *info, char **ptr, size_t *length)
 }
 
 /**
- * theHandler - qwdio jwqd iojsad uwqdhuiwqd.
- * @sig_num: qwdqwoi iojwdq sdmn cijwidjwqd.
- * Return: Just nowsd iwdjiw wqdqdio.
+ * theHandler - qwo jwhgfdhdfqd iojsad uwqdd.
+ * @sig_num: qwdi ifgh fghwdq sdmn cdjwqd.
+ * Return: Jusfgdhht nsd iwiw wqdio.
  */
 
 void theHandler(__attribute__((unused))int sig_num)

@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * get_hi_cap - wqdio jiowdq nmcmnxci wqdhjiuoqwd.
- * @info: oipjwdqioj ioqdj iojwdiojwqd.
- * Return: wqd okqwdo ohgowqd ioqwidjqw.
+ * get_hi_cap - wqzxcvxcvdio jiowdq nmcmnxci wqdhjiuoqwd.
+ * @info: oipjwdqioj ioqdbcbbj iojwdiojwqd.
+ * Return: wqd okqwdo ohgowqd ghgshgfhioqwidjqw.
  */
 
 char *get_hi_cap(info_t *info)
@@ -25,9 +25,9 @@ char *get_hi_cap(info_t *info)
 }
 
 /**
- * leak_hist - wdwqd ioji ujsnaddu uihdqwuihd fufwqf.
- * @info: wqd iojwdqioj iojqdwio uihggeg nqwmdwndq.
- * Return: iopqwdj ioj d qwuwud qhduhwqudiqw.
+ * leak_hist - wdwqd ioji ujsnaddu uihdqwuihdhgfhhfgf fufwqf.
+ * @info: wqd iojwdqioj iojqdwio uihgghfghdhfheg nqwmdwndq.
+ * Return: iopqwdffhdghgfh5ytrj ioj d qwuwud qhduhwqudiqw.
  */
 
 int leak_hist(info_t *info)
@@ -55,9 +55,9 @@ int leak_hist(info_t *info)
 }
 
 /**
- * watch_hist - rqwd piowdj ijwdqio jiwqdiowd.
- * @info: qwd ioj griojg dui huidw xmnxcijdwqd.
- * Return: wd iojwdqi jiojwd ufhqwd iqwf.
+ * watch_hist - rqwd piowdj ijfdhfgdwdqio jiwqdiowd.
+ * @info: qwd ioj griojg dui huidw xmnxcijd  fghdfhggfhfwqd.
+ * Return: wd iojwdqi jiojwd ufgfffgfhsstghhqwd iqwf.
  */
 
 int watch_hist(info_t *info)
@@ -105,11 +105,11 @@ int watch_hist(info_t *info)
 }
 
 /**
- * myfqa_list - oijwdio iojdqi wdiojwq dwqidjioqw.
- * @info: opejd oijwqfj uihwduihqwd iuwhduihqwdfdb.
- * @buf: qwdqwfpoiij iowqdjiowq iuhwqufhqwf.
- * @linecount: rthrf iowjdio iuhwduhqwf iuhwqfqwf.
- * Return: ioqod oij gfiuhwqdu uihgwu hquidw.
+ * myfqa_list - oijwdio iojdqgfhgfdhfi wdiojwq dwqidjioqw.
+ * @info: opejd oijgfdhghfgghwqfj uih wduihqwd iuwhduihqwdfdb.
+ * @buf: qwdqwfpoiij iowqdjiowq iuhwquf hqwf.
+ * @linecount: rthrf iowjdio iuhwduhqgfhfgdfhwf iuhwqfqwf.
+ * Return: ioqod oij gfiuhwqdu uihgwfgghgdfhu hquidw.
  */
 
 int myfqa_list(info_t *info, char *buf, int linecount)
@@ -127,9 +127,9 @@ int myfqa_list(info_t *info, char *buf, int linecount)
 }
 
 /**
- * resort_holgo - rwqd oihjas djnd iojqwd iojwqiodjwq iowjdioqwd.
- * @info: Sqoiwdj ioj sad Sj dijwqiodj iojqwd iojnbsczxm.
- * Return: bnn xckcnwic ojIQ nndwq ppqwnndqwduwq.
+ * resort_holgo - rwqd oihjas djnd iojqwd iodfhdfjwqiodjwq iowjdioqwd.
+ * @info: Sqoiwdj ioj sad Sj dijwqiodj iojqwd iojgfhfge5tynbsczxm.
+ * Return: bnn xckcnwic ojfdhrtgrIQ nndwq ppqwnndqwduwq.
  */
 
 int resort_holgo(info_t *info)

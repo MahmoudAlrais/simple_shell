@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * list_len - dewqd oijsd ioasjdoiwqd ijwijduhwfqgw.
- * @h: poiijdi jwijoijqdw ijuih csmnaduwuqwfqw.
- * Return: qwd iokjdwj qwijd uihfuqiwf.
+ * list_len - dewqgfsgdfsd oijsd iodfgasjdoiwqd ijwijduhwfqgw.
+ * @h: poiijdi jwijoijqdw ijuih csmnadgfdsg uwuqwfqw.
+ * Return: qwd iokjdwj qwijd uisfdgfsgsg hfuqiwf.
  */
 
 size_t list_len(const list_t *h)
@@ -21,9 +21,9 @@ size_t list_len(const list_t *h)
 }
 
 /**
- * list_to_strings - wqd iowqdjio qwfujwquh uudwuiwqdwquij.
- * @head: uih iojqdwiu uihwqudi hfndguihdfqwdf.
- * Return: sad iojas dwqudi huhfuqiwfqwf.
+ * list_to_strings - wqsdgfsdd iowqdjio qwfujwquh uudwuiwqdwquij.
+ * @head: uih iojqdwiu uihwquds ggsddi hfndgu ihdfqwdf.
+ * Return: sad iojas dwqudi huhf uqidfsgdg ffswfqwf.
  */
 
 char **list_to_strings(list_t *head)
@@ -59,9 +59,9 @@ char **list_to_strings(list_t *head)
 
 
 /**
- * preak_lict - pwqd iuwqdh u ascjnwiudjwqd uidwquhuhwduiqg.
- * @h: wdq ijwqdij iojwfqiowq uihwduifwgwuhgqg.
- * Return: qwd iojwqdj nsachuiwdhuhqgqwogijwf.
+ * preak_lict - pwqd iuwqdh u ascjn wiudjwqd uidwquhu hwduiqg.
+ * @h: wdq ijwqdij iojwfqiowq uihw duifwgwuhgqg.
+ * Return: qwd iojwqdj nsachu iwdhuh qgqwogijwf.
  */
 
 size_t preak_lict(const list_t *h)
@@ -83,11 +83,11 @@ size_t preak_lict(const list_t *h)
 }
 
 /**
- * node_starts_with - rewqd kijhwdqiujwq sauidhusad jnqwfuihwfqufwq.
- * @node: wqd dwqoij wiqjdiuhuisahdfwqd.
- * @prefix: qwdioj iowqdiojwqiojwqgqw iojwioqw.
- * @c: tasd ascouiohw uhudh wuiqdhuiqwggq wqdwq.
- * Return: uiohasd d diwojdioqwg qwiogjqwfwqd.
+ * node_starts_with - rewqd kijh wdqiujwq sauidhusad jnqwfuihwfqufwq.
+ * @node: wqd dwqoij wiqjd iuhuisa hdfwqd.
+ * @prefix: qwdioj iowqdioj wqiojw qgqw iojwioqw.
+ * @c: tasd ascouiohw uhudh wuiqdhu iqwggq wqdwq.
+ * Return: uiohasd d diwojdioqwg qwi ogjq wfwqd.
  */
 
 list_t *node_starts_with(list_t *node, char *prefix, char c)
@@ -106,10 +106,10 @@ list_t *node_starts_with(list_t *node, char *prefix, char c)
 }
 
 /**
- * get_node_index - W iujiojdio iuqwdihwqduh uhfuwquwqfh iuwqdhjuiwqd.
- * @head: oijdwq sadkn iudw dioj ijqdwio ufuqwfiqwf iojwdioqwd.
- * @node: W hwdiuwq sad jnd wd iowdjio qwduih udwqidu hqwd.
- * Return: WId idjwqiodj iojawdfio wqdiowidjowqdwh.
+ * get_node_index - W iujiojdio iuqwdihwqdsfgdfuh uhfuwquwqfh iuwqdhjuiwqd.
+ * @head: oijdwq sadkn iudw dioj ijqdwio ufuqwf iqwf iojwdioqwd.
+ * @node: W hwdiuwq sad jnd wd iowdjio qwduih udgsdgsfg wqidu hqwd.
+ * Return: WId idjwqiodj iojawdfio wqdiowsdfgfsgidjowqdwh.
  */
 
 ssize_t get_node_index(list_t *head, list_t *node)

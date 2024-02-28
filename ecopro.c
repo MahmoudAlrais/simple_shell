@@ -1,11 +1,11 @@
 #include "myproshell.h"
 
 /**
- **_strncpy - cioqwdjio iodwjio qdwioj.
- *@dest: ytukuiyuyoiuipodsfsad wdqwfdsdegreg
- *@src: tjswfa fdgrfg tjhrsfa eswgferh rtehy
- *@n: wqderhgrth ytjytj fawsdw rhrtjh yjtwefew
- *Return: rete sadij jsjadjwqidfqw.
+ **_strncpy - csdfgiojio iodwjio qdwioj.
+ *@dest: ytukuiyuyog isfsad wdqwfdsdegreg
+ *@src: tjswfa frfg tgsdfgfgjfa eswgferh rtehy
+ *@n: wqdrth ytjytj fawsddfsgdw rsdf gfsfgghrtjh yjtwefew
+ *Return: rete sadij jsjad gfsfgjwqidfqw.
  */
 
 char *_strncpy(char *dest, char *src, int n)
@@ -33,11 +33,11 @@ char *_strncpy(char *dest, char *src, int n)
 }
 
 /**
- **_strncat - efgrtg tyhjdsf sdfhtrh sad fewsgews
- *@dest: trhsad dfg fdhgregef asf sd f
- *@src: qwdwqd rg hrthtrhtr sadfsdf hjtrhrg
- *@n: wqd rgdsfds fewf dfrgtrfght yhjef qdfwdwq
- *Return: qwdffdg trhgwd fet the reutnr function.
+ **_strncat - efgrtg tyhjdsf sdfsfgsfhtrh sad fewsgews.
+ *@dest: trhsad dfg fdegef asf sd sdfgff.
+ *@src: qwdwqd rg htrhtr sadfs hjtrhsgdgfrg.
+ *@n: wqd rgds fewf dfrrfght yhjef qdfwdwdfsgdgq.
+ *Return: qffdg trhgwd fet the reutnr functionsfgsf.
  */
 
 char *_strncat(char *dest, char *src, int n)
@@ -62,10 +62,10 @@ char *_strncat(char *dest, char *src, int n)
 }
 
 /**
- **_strchr - sadasd rfhgrtgg wd gbnfdgewfwe
- *@s: wqdwq trhaasd hgtrhew dsfgnh regerswdf
- *@c: wqd fggtfrh ergr uykfdg efwe wefwewe
- *Return: wqd thtrh yuj ytj efew fytjh ytjyt
+ **_strchr - sadasd rfhgg wd .
+ *@s: wqdwq trhaasd hhew dsfgnhlohk regerswdf.
+ *@c: wqd fggrh ergr ufdg efwe wefwebcvnwe.
+ *Return: wqd thtrh yuj ytj efew fytj.
  */
 
 char *_strchr(char *s, char c)
@@ -80,10 +80,10 @@ char *_strchr(char *s, char c)
 }
 
 /**
- * starts_with - wqd rgegre kljwdqdi iowdjioqwhrtoijg.
- * @haystack: oij wqdioj oijwqdiojwq uighreg.
- * @needle: oijwdqij ijrhgiojed iwjdioqwd.
- * Return: piowqdj iojwqdi ijwdioqwdht ijwdqwd.
+ * starts_with - wqd rgegre kljwdqdi iovcnwdjijg.
+ * @haystack: oij wqdioj oijwwnnvcq uighreg.
+ * @needle: oijqij ijrhjed iwjdioqvncvnwd.
+ * Return: piqdj iojwqdi iioqwdht ijwdqvcnbnwd.
  */
 char *starts_with(const char *haystack, const char *needle)
 {

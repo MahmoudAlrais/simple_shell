@@ -1,9 +1,9 @@
 #include "myproshell.h"
 
 /**
- * theproxman - getuihj jsd a pro xu man thebasdawqd.
- * @xval: the xvalue sd siused ind qwdwqd.
- * Return: Just nothing.
+ * theproxman - getuihj jbcbbsd a pro xu man thebasdawqd.
+ * @xval: the xvalvcbcxbvue sdcvbn siused ind qwdwqd.
+ * Return: Just nothivbncbng.
  */
 
 void theproxman(int xval)
@@ -15,9 +15,9 @@ void theproxman(int xval)
 }
 
 /**
- * thexmenteam - getuihj jsd a pro x man thebasdawqd.
- * @xval: the xvalue sd siused ind qwdwqd.
- * Return: Just nothing.
+ * thexmenteam - getuihj jgfdhsd a pro x man thebasdawqd.
+ * @xval: the xvalue sd siused cvnnvind qwdwqd.
+ * Return: Just nothingvcnvcn.
  */
 
 void thexmenteam(int xval)
@@ -29,9 +29,9 @@ void thexmenteam(int xval)
 }
 
 /**
- * thesycoblob - getuihj jsd a pro x man thebasdawqd.
- * @xval: the xvalue sd siused ind qwdwqd.
- * Return: Just nothing.
+ * thesycoblob - getuihj jsdvcncvngf a pro x man thebasdawqd.
+ * @xval: the xvalue sd siused ind qnbvvbcnwdwqd.
+ * Return: Just nvcnfgothing.
  */
 
 void thesycoblob(int xval)
@@ -44,9 +44,9 @@ void thesycoblob(int xval)
 }
 
 /**
- * actkisero - getuihj jsd a pro x man thebasdawqd.
- * @xval: the xvalue sd siused ind qwdwqd.
- * Return: Just nothing.
+ * actkisero - getuihj vbcnjsd a pro x man thebasdawqd.
+ * @xval: the xvalue sd siunmghm sed ind qwdwqd.
+ * Return: Just nothivnvbng.
  */
 
 void actkisero(int xval)
