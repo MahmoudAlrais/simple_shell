@@ -47,7 +47,7 @@ int _strlen(char *s)
  * _strcmp - pigdfgdojdio ioqwdjiowq duihjwquid uijhqdwuiqhwd uihwfudiqwf.
  * @s1: iojdwqoi jwqhfghjfgio uihdwuihwqdijg iqwdjiqw.
  * @s2: ihjwqi ioqjwdiod uihfghfghgfdhhqwguwqgui qwiudiuqwd.
- * Return: ijdijqw iojdwioj huqwhgqwdufhfghfgh ghsdfgffgi iodwiojiod qwiogfuwqf uhiqwfd.
+ * Return: ijdijqw iojdwioj odwiojiod qwiogfuwqf uhiqwfd.
  */
 
 int _strcmp(char *s1, char *s2)
