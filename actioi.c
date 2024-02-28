@@ -1,8 +1,8 @@
 #include "myproshell.h"
 
 /**
- * intosketiv - oiqdwiowdn ioqwdjiojdwio wqoidq.
- * @info: iojwdiojwqd iwjdiodwq qwdw.
+ * intosketiv - oiqdwiowdn jiojdwio wqoidq.
+ * @info: iojwdiojwqd iodwq qwdw.
  * Return: it's just return an int.
  */
 
@@ -13,9 +13,9 @@ int intosketiv(info_t *info)
 }
 
 /**
- * is_delim - ioqwdijqw ijqwdwqid hhghuqwd jqwdiwqd.
- * @c: wqidjiosfd oigfgqjdwiowqd iojqwdioqd ijqwd.
- * @delim: obsijdwqiojq iodfgqdjioqwd oiqjwdqwoidj q.
+ * is_delim - ioqw ijqwdwqid hhghuqwd jqwdiwqd.
+ * @c: wqidd oigfgqjdwiowqd iojqwdioqd ijqwd.
+ * @delim: obiojq iodfgqdjioqwd oiqjwdqwoidj q.
  * Return: it's just int jqjiqwdqwd.
  */
 
@@ -29,8 +29,8 @@ int is_delim(char c, char *delim)
 }
 
 /**
- * _isalpha - ppowiow ionxcxn uijhduqhzx uiqwud.
- * @c: oiwewqkx iojiqqw nmnndwidqwi ppqdw.
+ * _isalpha - ppw ionxcxn uijhduqhzx uiqwud.
+ * @c: oikx iojiqqw nmnndwidqwi ppqdw.
  * Return: retuen sometning rleated to the program.
  */
 
@@ -43,8 +43,8 @@ int _isalpha(int c)
 }
 
 /**
- * _acsoi - ioiiwq iijd jjwdiqwd iijqiwdi qwidiqwd.
- * @s: ppowd oook oqwd jvjjiqwdjwq dkkq.
+ * _acsoi - ioiiwq iijd jjwqwd iijqiwdi qwidiqwd.
+ * @s: ppowd oook oqwd jiqwdjwq dkkq.
  * Return: retuen sometning thelat's related to the program.
  */
 
@@ -77,10 +77,10 @@ int _acsoi(char *s)
 }
 
 /**
- * _strcpy - oppkopwqkd dxzcmn jnefnwqdo wqdtjsceg.
- * @dest: retunsspq tehdd destionasdwd.
+ * _strcpy - oppkkd dxzcmn jnefnwqdo wqdtjsceg.
+ * @dest: retpq tehdd destionasdwd.
  * @src: the oqoj cof the foelq oeotsjdwd.
- * Return: tiiqwdm my pointer of the code.
+ * Return: twdm my pointer of the code.
  */
 
 char *_strcpy(char *dest, char *src)
